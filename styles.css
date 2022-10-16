@@ -1,0 +1,73 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4.8rem;
+  color: #ff9933;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: "sacarmento",sans-serif;
+}
+
+img {
+  width: 80%;
+
+}
+.start{
+  text-align: center;
+  margin-top: 3.5% ;
+}
+.start a{
+  text-decoration: none;
+  color: #FFF;
+  padding:0.5rem 2rem;
+
+}
+.start a:hover{
+  color: #3cb0fd;
+}
+.btn{
+  background: #3cb0fd;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 35px;
+  padding: 10px;
+  text-decoration: none;
+
+
+}
+
+.btn:hover {
+  background: #fff;
+  text-decoration: none;
+}
+
+
+footer {
+  margin-top: 2.3%;
+  font-size: 2rem;
+  color: #4EccA3;
+  text-align: center;
+  font-family:"Sacramento" ,serif ;
+  font-weight: bold;
+}
